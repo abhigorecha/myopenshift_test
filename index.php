@@ -1,5 +1,6 @@
 <? php
   
-  print("this is first ...'0;
+  print("this is first ...");
+ print("this is Second ...");
   
   ?>
